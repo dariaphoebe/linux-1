@@ -481,14 +481,10 @@ E: dirk.j.brandewie@intel.com
 E: linux-wimax@intel.com
 D: Intel Wireless WiMAX Connection 2400 SDIO driver
 
-N: Derrick J. Brashear
-E: shadow@dementia.org
-W: http://www.dementia.org/~shadow
-P: 512/71EC9367 C5 29 0F BC 83 51 B9 F0  BC 05 89 A0 4F 1F 30 05
+N: Daria Phoebe Brashear
+E: shadow@dementix.org
+W: https://www.dariaphoebe.com/
 D: Author of Sparc CS4231 audio driver, random Sparc work
-S: 403 Gilmore Avenue
-S: Trafford, Pennsylvania 15085
-S: USA
 
 N: Dag Brattli
 E: dagb@cs.uit.no
